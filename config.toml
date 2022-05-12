@@ -1,4 +1,4 @@
-aseURL = "https://example.com"
+baseURL = "https://savchenko-dev.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Jane Doe"
