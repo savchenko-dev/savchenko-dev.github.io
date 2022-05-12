@@ -1,8 +1,8 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "Добро пожаловать"
+author = "Данил Савченко"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "Личный блог"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -57,19 +57,15 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/savchenko-dev/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/savchenko-dev"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/savchenko.dev/"
 
-[[socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:mail@example.com"

@@ -1,10 +1,10 @@
-baseURL = "https://example.com"
-languageCode = "en"
-DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+baseURL = "https://savchenko.dev"
+languageCode = "ru"
+DefaultContentLanguage = "ru"
+title = "Данил Савченко"
 
 # theme as hugo module
-#theme = "github.com/lxndrblz/anatole"
+# theme = "github.com/savchenko-dev/anatole"
 # theme as git submodule
 theme = "anatole"
 
@@ -37,9 +37,11 @@ pygmentsCodefencesGuessSyntax = true
   includeNewer = true
   threshold = 80
   toLower = true
+
 [[related.indices]]
   name = 'keywords'
   weight = 100
+
 [[related.indices]]
   name = 'tags'
   weight = 80
