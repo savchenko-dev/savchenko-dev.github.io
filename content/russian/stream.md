@@ -26,5 +26,6 @@ date: 2022-05-14T12:02:30+06:00
 Когда: **14 Мая, 2022 - 19:00 по Бишкеку**
 
 Стрим: <a href="https://youtu.be/7FrgVz6hl-w" target="_blank">**КЛИК СЮДА**</a>
+Код стрима + доп материалы: <a href="https://github.com/savchenko-dev/web-dev-streams/tree/main/stream_1" target="_blank">**КЛИК СЮДА**</a>
 
 {{< /notice >}}
