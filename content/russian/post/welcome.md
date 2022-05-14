@@ -1,15 +1,15 @@
 ---
-author: Daniel Savchenko
-title: Welcome
-date: 2021-08-15
-description: First test post
+title: "Добро пожаловать"
+date: 2022-05-14T11:57:50+06:00
+Description: "О блоге Данила Савченко"
 ---
 
-In this second part of the series we'll show you where to find the full series
+Итак это первый пост в блоге, в котором я расскажу о том что здесь будет и зачем.
 
-<!--more-->
+<!-- more -->
 
-When you created a series, you'll probably want to link to the full set of blogposts.  
-In this example we used `series-setup` as our series name.
+Меня зовут Данил Савченко - сейчас я сеньер фронтенд с 5 летним опытом разработки. Я самоучка.
 
-This means we can now go to [http://localhost:1313/series/series-setup/](http://localhost:1313/series/series-setup/) to see all the blog posts of this serie.
+Цель данного блога зафиксировать весь путь развитя в веб разрабоке. Чтобы любой желающий мог его повторить.
+
+Ну и конечно же чтобы просто повеселиться.
