@@ -69,3 +69,8 @@ icon = "fab fa-instagram"
 title = "instagram"
 url = "https://www.instagram.com/savchenko.dev/"
 
+[[socialIcons]]
+icon = "fab fa-youtube"
+title = "youtube"
+url = "https://www.youtube.com/channel/UCTr_WOGsf2EENbzg14xCpyQ"
+

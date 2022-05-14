@@ -15,8 +15,8 @@ date: 2022-05-14T12:02:30+06:00
 
 Чтобы залететь к нам на стрим, нужно:
 
-1. Подписаться на YouTube чтобы не пропустить [**КЛИК СЮДА**](https://www.youtube.com/channel/UCTr_WOGsf2EENbzg14xCpyQ)
-2. Залететь в Discord [**КЛИК СЮДА**](https://discord.gg/YCYcTf9t)
+1. Подписаться на YouTube чтобы не пропустить [**КЛИК СЮДА**](https://www.youtube.com/channel/UCTr_WOGsf2EENbzg14xCpyQ){:target="\_blank"}
+2. Залететь в Discord [**КЛИК СЮДА**](https://discord.gg/YCYcTf9t){:target="\_blank"}
 3. Ждать начала стрима и переходить по сслылке которая появится ниже за 10-15 минут до начала стрима
 
 {{< notice info >}}
