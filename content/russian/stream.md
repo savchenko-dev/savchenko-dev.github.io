@@ -16,7 +16,7 @@ date: 2022-05-14T12:02:30+06:00
 Чтобы залететь к нам на стрим, нужно:
 
 1. Подписаться на YouTube чтобы не пропустить <a href="https://www.youtube.com/channel/UCTr_WOGsf2EENbzg14xCpyQ" target="_blank">**КЛИК СЮДА**</a>
-2. Залететь в Discord <a href="https://discord.gg/YCYcTf9t" target="_blank">**КЛИК СЮДА**</a>
+2. Залететь в Discord <a href="https://discord.gg/Z4SYWk8Wja" target="_blank">**КЛИК СЮДА**</a>
 3. Залететь в телеграм <a href="https://t.me/savchenko_live" target="_blank">**КЛИК СЮДА**</a> - туда прилетит ссылка на стрим
 4. И конечно залететь в чат стримов <a href="https://t.me/+cNJagCu7Cwo0ZTky" target="_blank">**КЛИК СЮДА**</a> - там будем отвечать на вопросы, помогать, и лайтово общаться
 
