@@ -3,9 +3,3 @@
   identifier = "home"
   weight = 100
   url = "/"
-
-  [[main]]
-  name = "Стримы"
-  weight = 200
-  identifier = "stream"
-  url = "/stream/"
