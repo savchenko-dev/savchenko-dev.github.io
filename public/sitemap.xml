@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://savchenko.dev/stream/</loc>
-    <lastmod>2022-05-14T12:02:30+06:00</lastmod>
-  </url><url>
     <loc>https://savchenko.dev/</loc>
+    <lastmod>2022-07-01T21:27:50+06:00</lastmod>
+  </url><url>
+    <loc>https://savchenko.dev/post/</loc>
+    <lastmod>2022-07-01T21:27:50+06:00</lastmod>
+  </url><url>
+    <loc>https://savchenko.dev/post/frontend-roadmap-2022/</loc>
+    <lastmod>2022-07-01T21:27:50+06:00</lastmod>
   </url><url>
     <loc>https://savchenko.dev/categories/</loc>
   </url><url>
