@@ -19,8 +19,6 @@ DisableComments: false
 
 [https://github.com/michu2k/SimpleSlider](https://github.com/michu2k/SimpleSlider)
 
-[https://github.com/michu2k/SimpleSlider/](https://github.com/michu2k/SimpleSlider/)
-
 ## Медиум
 
 [https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap)
