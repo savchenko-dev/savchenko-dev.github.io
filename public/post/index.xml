@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Данил Савченко</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 01 Jul 2022 21:27:50 +0600</lastBuildDate><atom:link href="https://savchenko.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://savchenko.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как прокачивать скилл кодинга? Топовый инструмент</title>
+      <link>https://savchenko.dev/post/coding-skill-opensource-review/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://savchenko.dev/post/coding-skill-opensource-review/</guid>
+      
+        <description>Речь пойдет о код ревью опенсорс проектов. Как же много всего можно узнать из чужого кода.</description>
+      
+    </item>
+    
     <item>
       <title>Roadmap - Как стать Frontend разработчиком в 2022 по шагам</title>
       <link>https://savchenko.dev/post/frontend-roadmap-2022/</link>
