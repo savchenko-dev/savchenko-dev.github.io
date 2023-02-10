@@ -33,4 +33,8 @@ DisableComments: false
 
 [https://github.com/mui/material-ui](https://github.com/mui/material-ui)
 
+А вот сайт где можно найти много проектов для ревью:
+
+[https://hacktoberfest-projects.vercel.app/repos/javascript](https://hacktoberfest-projects.vercel.app/repos/javascript)
+
 Удачного ревью 😏
