@@ -74,3 +74,8 @@ icon = "fab fa-youtube"
 title = "youtube"
 url = "https://www.youtube.com/channel/UCTr_WOGsf2EENbzg14xCpyQ"
 
+[[socialIcons]]
+icon = "fab fa-telegram"
+title = "telegram"
+url = "https://t.me/savchenko_live"
+
