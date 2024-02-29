@@ -1,6 +1,5 @@
 ---
-title: "Redirecting..."
-date: 2024-02-29T16:33:44+06:00
+title: "Contact Form For Networking"
 ---
 
 Если вас не перенаправило на страницу с формой, нажимте сюда:
